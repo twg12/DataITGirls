@@ -29,9 +29,11 @@
 * 균등 분포
     * (m, s)
     * uniform(a, b, c) 
+
 * 정규 분포
     * (m, s) 
     * normal(a, b, c)
+    
 * 지수 분포
     * 평균적으로 B 시간마다 일어나는 일: 다음 일 언제?
     * exponential(a)
