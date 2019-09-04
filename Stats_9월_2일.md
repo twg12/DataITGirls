@@ -1,6 +1,6 @@
-## 통계: '추정'
+# 통계: '추정'
 
-# 선형모형
+## 선형모형
 * MSE: numpy.mean((data - 예측) ** 2)
 * from scipy.optimize import minimize
 ```py
@@ -26,7 +26,7 @@ minimize(mse, (a, b))
 ```
 * 리스트를 적을 때 numpy.array([a, b, c, d]) 적을 것
 
-# 로지스틱 선형모형
+## 로지스틱 선형모형
 * numpy.log(numpy.product(like))
 ```py
 def lk(p):
