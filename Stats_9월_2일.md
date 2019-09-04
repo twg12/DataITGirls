@@ -38,3 +38,7 @@ def lk(p):
 실패우도 = numpy.log(1-합격확률) * (1-합격)
 우도 = 성공우도 + 실패우도
 ```
+* 
+```py 
+from sklearn.linear_model import LinearRegression
+```
