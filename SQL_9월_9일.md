@@ -19,3 +19,7 @@ FROM ANIMAL_INS
 * SUBSTRING_INDEX(A, ' ' 1): 첫번째 단어만
 * UPPER(): 대문자로 바꾼다, LOWER(): 소문자로 바꾼다
 * <>: means difference
+
+* set_index
+* set_values
+* right_on
